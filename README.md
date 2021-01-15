@@ -12,6 +12,6 @@ Two additional visualizations I would provide with this result would be to creat
 
 ## Images
 
-![](./Resources/Checkout_Times_by_Gender)
+![](./Resources/Checkout_Times_by_Gender.png)
 
-![](./Resources/ Checkout_Times_for_Users)
+![](./Resources/ Checkout_Times_for_Users.png)
