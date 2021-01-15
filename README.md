@@ -14,4 +14,4 @@ Two additional visualizations I would provide with this result would be to creat
 
 ![](./Resources/Checkout_Times_by_Gender.png)
 
-![](./Resources/ Checkout_Times_for_Users.png)
+![](./Resources/Checkout_Times_for_Users.png)
