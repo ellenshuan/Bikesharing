@@ -1,5 +1,7 @@
 # bikesharing
 
+[link to dashboard](https://public.tableau.com/profile/ellen.shuan#!/vizhome/TableauChallenge_16104906600190/CheckoutTimesforUsers?publish=yes)
+
 ## Overview of the Analysis  
 The purpose of this project is to convince investors to invest in a bikeshare business in Des Moines, Iowa that is similar to Citibike. This is done through conducting data analysis on citibikes during August of 2019. 
 
